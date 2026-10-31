@@ -1,0 +1,5 @@
+{
+  "origins": ["https://baeke.info", "https://www.baeke.info", "http://localhost:4321"],
+  "originsRegex": ["^https://black-plant-086c07103(-[a-z0-9-]+)?(\\.[a-z]+)?\\.6\\.azurestaticapps\\.net$"],
+  "defaultCommentOrder": "oldest"
+}
